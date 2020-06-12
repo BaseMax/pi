@@ -6,7 +6,7 @@ Small program in C language to calculate pi value.
 
 Because Pi (π) has so many important uses, then we need to be able to start to calculate it, at least to several decimal places accuracy.  Someone had to come up with the approximate value for Pi (π) which appears on your calculator – it didn’t get there by magic!
 
-### Monte Carlo
+Easy and good article: https://www.wikihow.com/Calculate-Pi
 
 ### Measuring circles
 
@@ -45,6 +45,10 @@ Mathematicians have also found other more efficient series for calculating Pi (�
 Before the advent of computers it was much harder to calculate Pi (π). In the 19th Century William Shanks took 15 years to calculate Pi (π) correct to 707 decimal places. Unfortunately it was later found that he had made a mistake and was only right to 527 decimal places! The nine or 10 digits of Pi (π) which you see on your calculator have been known about probably since 1400.
 
 Now that you know how to calculate Pi (π), you could always try your hand at memorising the decimal places of Pi (π). The most recent record was created on Pi Day in 2019 by Google, who calculated Pi to 31.4 trillion decimal places!. On the other hand, you could simply use the following mnemonic for learning the first six decimal places of Pi (π): “How I wish I could calculate Pi”
+
+### Monte Carlo
+
+Read [Monte Carlo1.pdf](Monte Carlo1.pdf) and  [Monte Carlo2.pdf](Monte Carlo2.pdf) article.
 
 ---------
 
