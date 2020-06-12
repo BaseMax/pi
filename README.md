@@ -46,6 +46,8 @@ Before the advent of computers it was much harder to calculate Pi (π). In the 1
 
 Now that you know how to calculate Pi (π), you could always try your hand at memorising the decimal places of Pi (π). The most recent record was created on Pi Day in 2019 by Google, who calculated Pi to 31.4 trillion decimal places!. On the other hand, you could simply use the following mnemonic for learning the first six decimal places of Pi (π): “How I wish I could calculate Pi”
 
+Read more: https://www.mathscareers.org.uk/article/calculating-pi/
+
 ### Monte Carlo
 
 Read [MonteCarlo-1.pdf](MonteCarlo-1.pdf) and  [MonteCarlo-2.pdf](MonteCarlo-2.pdf) article.
