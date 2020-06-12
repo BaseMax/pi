@@ -48,7 +48,7 @@ Now that you know how to calculate Pi (π), you could always try your hand at me
 
 ### Monte Carlo
 
-Read [Monte Carlo1.pdf](Monte Carlo1.pdf) and  [Monte Carlo2.pdf](Monte Carlo2.pdf) article.
+Read [MonteCarlo-1.pdf](MonteCarlo-1.pdf) and  [MonteCarlo-2.pdf](MonteCarlo-2.pdf) article.
 
 ---------
 
