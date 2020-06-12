@@ -8,7 +8,7 @@ Small program in C language to calculate pi value.
 
 Because Pi (π) has so many important uses, then we need to be able to start to calculate it, at least to several decimal places accuracy.  Someone had to come up with the approximate value for Pi (π) which appears on your calculator – it didn’t get there by magic!
 
-Easy and good article: https://www.wikihow.com/Calculate-Pi
+Easy and good article: https://www.wikihow.com/Calculate-Pi and https://www.mathsisfun.com/numbers/pi.html
 
 ### Measuring circles
 
